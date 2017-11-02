@@ -14,9 +14,10 @@ if(oW <= 480)
     }
 </script>
 
+
+
 //declaring HTML tag body or equivalent and calling javaScript function to execute on event load.
 //Additionally, device dimensions afre checked on first page and thus right-click and keydown is disabled.
-
 //Line 6: checking whether width is greater (landscape mode of device) or height is more (portrait mode of device)
 //Line 9: The variable oW (original width) after execution of this condition will store the actual device width (in portrait mode).
 //Line 9: This value is lowest among 'screen.height' and 'screen.width'.
